@@ -18,13 +18,13 @@ A simple and intuitive TODO application built with AngularJS to manage tasks eff
 1. Clone the project
 
 ```bash
-  git clone https://github.com/yourusername/todo-app.git
+  git clone https://github.com/Dhruv-Baraiya/TODO-App.git
 ```
 
 2. Go to the project directory
 
 ```bash
-  cd todo-app
+  cd TODO-App
 ```
 
 3. Open **`index.html`** in your web browser to start using the app.
